@@ -1,0 +1,14 @@
+# Mac/OSX
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# api keys file
+config.py
+
+# ingredients parser code
+ingredient-phrase-tagger/
+
+# ignore all csv files
+*.csv
